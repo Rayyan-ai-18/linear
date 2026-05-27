@@ -18,13 +18,5 @@ Thumbs.db
 # Logs
 *.log
 
-# Data
+# Data (cached/generated)
 _DataURI/
-
-# Windows reserved names
-NUL
-NUL.*
-
-# Temporary files
-tmp/
-temp/
